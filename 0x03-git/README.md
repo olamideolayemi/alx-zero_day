@@ -1,1 +1,1 @@
-0x03-git reamde
+updated 0x03-git readme
